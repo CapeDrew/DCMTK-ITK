@@ -1,3 +1,6 @@
 [submodule "Testing/Data"]
 	path = Testing/Data
 	url = git://itk.org/ITKData.git
+[submodule "Modules/ThirdParty/DCMTK/src/dcmtk"]
+	path = Modules/ThirdParty/DCMTK/src/dcmtk
+	url = http://github.com/commontk/DCMTK.git
